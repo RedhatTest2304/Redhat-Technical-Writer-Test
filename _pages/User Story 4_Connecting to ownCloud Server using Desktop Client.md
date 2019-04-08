@@ -4,7 +4,7 @@ title:  "user accounts"
 permalink: /Desktop/
 ---
 
-## Connecting to ownCloud Server Using Desktop Client
+## User Story 4: Connecting to ownCloud Server Using Desktop Client
 
 ### Overview
 The **ownCloud Desktop Synchronization Client** is used for synchronizing files with the desktop computer. As a user, you can download the latest version of the ownCloud Desktop Synchronization Client from the [ownCloud download page](https://owncloud.org/download/), and can run on various platforms like Microsoft Windows, Mac OS X, and variants of Linux distributions.  
