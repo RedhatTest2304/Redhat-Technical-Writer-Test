@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: ownCloud Quickstart
 email: gautam.kumar23041309@gmail.com
-description:ownCloud Quickstart.
+description: ownCloud Quickstart.
 baseurl: "Redhat-Technical-Writer-Test" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
