@@ -4,7 +4,7 @@ title:  "user accounts"
 permalink: /URL/
 ---
 
-## Changing Your ownCloud URL and Port Configuration  
+## User Story 2: Changing Your ownCloud URL and Port Configuration  
 ownCloud server is accessible under the route `/owncloud` (which is the default, e.g. <https://example.com/owncloud>). However, you can change this in your web server configuration, by changing the URL from <https://example.com/owncloud> to <https://example.com/>).  
 
 ### Config.php Parameters    
