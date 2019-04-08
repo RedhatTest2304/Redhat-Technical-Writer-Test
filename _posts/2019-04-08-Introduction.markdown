@@ -24,7 +24,7 @@ See the [ownCloud Documentation](https://doc.owncloud.com/server/) for full docu
 
 ## Bugs and Feedback
 
-For bugs, questions and discussions please use the [GitHub Issues](https://github.com/gk7700/Introduction/issues).  
+For bugs, questions and discussions please use the [GitHub Issues](https://github.com/RedhatTest2304/Redhat-Technical-Writer-Test/issues).  
 
 ## License
 
@@ -32,4 +32,4 @@ Copyright (c) 2019 ownCloud Inc. All rights reserved.
 
 ## Contact Information
 
-Please contact if you need assistance regarding these quickstart guides, for discussing your case or requesting permission, by sending us an email to <gk7700@gmail.com>
+Please contact if you need assistance regarding these quickstart guides, for discussing your case or requesting permission, by sending us an email to <gautam.kumar23041309@gmail.com>
