@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "user accounts"
+title:  ""
 permalink: /Installing/
 ---
 
