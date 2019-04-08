@@ -18,7 +18,7 @@ This quickstart guide will provide the user a concise step-based approach to the
 * [Adding user accounts](https://RedhatTest2304.github.io/Redhat-Technical-Writer-Test/Adding/)
 * [Connecting to the Owncloud server using desktop client](https://RedhatTest2304.github.io/Redhat-Technical-Writer-Test/Desktop/)
 
- ## Full Documentation  
+## Full Documentation  
  
 See the [ownCloud Documentation](https://doc.owncloud.com/server/) for full documentation, which includes, **Release Notes**, **User Manual**, **Admin Manual**, and **Developer Manual**.
 
