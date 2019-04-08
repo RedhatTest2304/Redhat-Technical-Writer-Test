@@ -4,7 +4,7 @@ title:  "user accounts"
 permalink: /Adding/
 ---
 
-## Adding User Accounts to ownCloud Server  
+## User Story 3: Adding User Accounts to ownCloud Server  
 
 ### Overview 
 ownCloud is an enterprise file sharing service for online collaboration and storage. To access this service, the user needs to have their user account which is created and managed by the **admin group**.  
