@@ -4,6 +4,8 @@ title:  ""
 permalink: /Installing/
 ---
 
+# User Story 1: Installing and Configuring ownCloud Server
+
 ## Introduction 
 
 This quickstart guide describes the system requirements and also explains how to install and configure an ownCloud server.  
@@ -15,7 +17,7 @@ Before installing the application for the first time, ensure that you have root 
 >Note: At the time of writing this manual, version 10.1 is the latest stable version of ownCloud server.
 
 ### Prerequisites
-Following [prerequisites](https://github.com/gk7700/Introduction/blob/master/Installation%20Prerequisites.md) must be met for successful installation and configuration of an ownCloud server. 
+Following [prerequisites](https://RedhatTest2304.github.io/Redhat-Technical-Writer-Test/Prerequisites/) must be met for successful installation and configuration of an ownCloud server. 
 
 ## Installing ownCloud Server
 ### Command Line Installation  
@@ -65,4 +67,4 @@ Listed below are other methods you can use to install an OwnCloud server:
      * [SLES (SUSE Linux Enterprise Server) 12](https://doc.owncloud.org/server/10.1/admin_manual/installation/manual_installation.html#sles-suse-linux-enterprise-server-12)
      
 ## Configuring ownCloud server
-Follow the link for a detailed overview on how to [Configure an ownCloud Server](https://github.com/gk7700/Introduction/blob/master/Configuration.md)
+Follow the link for a detailed overview on how to [Configure an ownCloud Server](https://RedhatTest2304.github.io/Redhat-Technical-Writer-Test/Configuration/)
