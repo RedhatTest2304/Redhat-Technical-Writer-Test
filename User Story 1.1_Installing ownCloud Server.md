@@ -1,6 +1,6 @@
 ## Introduction 
 
-This quick start guide describes the system requirements and also explains how to install and configure an ownCloud server.
+This quickstart guide describes the system requirements and also explains how to install and configure an ownCloud server.
 Understanding and ensuring your system meets all of the described prerequisites before you begin installing the product will help ensure a successful outcome.
 
 Before installing the application for the first time, ensure that you have root privileges for the servers and the software described in the table below has already been installed and configured.  
@@ -10,7 +10,7 @@ Before installing the application for the first time, ensure that you have root 
 ### Prerequisites
 Following [prerequisites](https://github.com/gk7700/Introduction/blob/master/Installation%20Prerequisites.md) must be met for successful installation and configuration of an ownCloud server. 
 
-## Installing ownCloud server
+## Installing ownCloud Server
 ### Command Line Installation  
 There are different methods and platforms for installing an ownCloud server. However, administrators prefer using the command line over a graphic user interface (GUI). Command line installation involves five steps:
 
