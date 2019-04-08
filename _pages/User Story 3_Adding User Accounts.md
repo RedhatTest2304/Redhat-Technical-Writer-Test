@@ -1,3 +1,9 @@
+---
+layout: default
+title:  "user accounts"
+permalink: /Adding/
+---
+
 ## Adding User Accounts to ownCloud Server  
 
 ### Overview 
