@@ -1,3 +1,9 @@
+---
+layout: default
+title:  "user accounts"
+permalink: /Configuration/
+---
+
 ## Configuring ownCloud server
 
 ownCloud requires a seperate database for storing administrative data. ownCloud currently supports the following databases:
