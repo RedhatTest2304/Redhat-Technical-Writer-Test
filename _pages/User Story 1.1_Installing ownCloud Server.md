@@ -1,3 +1,9 @@
+---
+layout: default
+title:  "user accounts"
+permalink: /Installing/
+---
+
 ## Introduction 
 
 This quickstart guide describes the system requirements and also explains how to install and configure an ownCloud server.  
