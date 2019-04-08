@@ -1,3 +1,9 @@
+---
+layout: default
+title:  "user accounts"
+permalink: /Prerequisites/
+---
+
 ## Prerequisites for Installing an ownCloud Server  
 
 The following requirements must be met to install and configure an ownCloud server:
