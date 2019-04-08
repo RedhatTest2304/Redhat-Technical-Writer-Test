@@ -1,9 +1,10 @@
 ## Introduction 
 
-This quickstart guide describes the system requirements and also explains how to install and configure an ownCloud server.
+This quickstart guide describes the system requirements and also explains how to install and configure an ownCloud server.  
+
 Understanding and ensuring your system meets all of the described prerequisites before you begin installing the product will help ensure a successful outcome.
 
-Before installing the application for the first time, ensure that you have root privileges for the servers and the software described in the table below has already been installed and configured.  
+Before installing the application for the first time, ensure that you have root privileges for the servers and the software described in the prerequisites section below has already been installed and configured.  
 
 >Note: At the time of writing this manual, version 10.1 is the latest stable version of ownCloud server.
 
