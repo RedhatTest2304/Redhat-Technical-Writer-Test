@@ -13,10 +13,10 @@ You can also subscribe to our monthly [newsletter](https://owncloud.org/newslett
 
 ## Getting Started
 This quickstart guide will provide the user a concise step-based approach to the following user stories:
-* [Installing and configuring an Owncloud server](https://RedhatTest2304.github.io/Redhat-Technical-Writer-Test/Installing/)
-* [Enabling users to connect to the Owncloud server using the server's IP address and port 8080](https://RedhatTest2304.github.io/Redhat-Technical-Writer-Test/URL/)
-* [Adding user accounts](https://RedhatTest2304.github.io/Redhat-Technical-Writer-Test/Adding/)
-* [Connecting to the Owncloud server using desktop client](https://RedhatTest2304.github.io/Redhat-Technical-Writer-Test/Desktop/)
+* [Installing and Configuring Owncloud server](https://RedhatTest2304.github.io/Redhat-Technical-Writer-Test/Installing/)
+* [Enabling Users to Connect to Owncloud server Using the Server's IP address and Port 8080](https://RedhatTest2304.github.io/Redhat-Technical-Writer-Test/URL/)
+* [Adding User Accounts](https://RedhatTest2304.github.io/Redhat-Technical-Writer-Test/Adding/)
+* [Connecting to Owncloud server Using Desktop Client](https://RedhatTest2304.github.io/Redhat-Technical-Writer-Test/Desktop/)
 
 ## Full Documentation  
  
